@@ -1,0 +1,16 @@
+{
+	"name": "RJ_SoloBosses",
+	"description": "Lowers World Bosses HP and Damage for a more single player friendly experience.\n\nThere are serveral other mods like this one available, but they all hade some \"faults\" like some bosses actually had less hp then some normal mobs or they didn't use a ModController to just change the vaules needed but instead changed the entire tables.",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "RJ_SoloBosses",
+	"revisionNumber": 104551,
+	"snapshotId": 18892
+}
